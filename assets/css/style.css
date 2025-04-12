@@ -710,4 +710,22 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+.book-now-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #25d366; /* WhatsApp green */
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.book-now-btn:hover {
+    background-color: #128c7e; /* Darker green on hover */
+}
+
 /*========================Thank you=================
