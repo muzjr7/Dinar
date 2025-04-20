@@ -647,7 +647,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     font-weight: 400;
     text-transform: capitalize;
 }
-.footer-social{text-align: right;}
+.footer-social{text-align: start;}
 .footer-social a i {
     color: #fff;
     opacity: .40;
